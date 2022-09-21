@@ -37,20 +37,20 @@ getRecipeAPI("Pizza", ".pizza-img", ".pizza-discription", ".pizza-el");
 getRecipeAPI(
   "Salmon Avocado Salad",
   ".salad-img",
-  "ceasar-description",
+  ".ceasar-description",
   ".ceasar-recipe"
 );
 
 getRecipeAPI(
   "Laksa King Prawn Noodles",
   ".noodle-img",
-  ".noodle-description",
+  ".noodle-decription",
   ".noodles-recipe"
 );
 
 getRecipeAPI(
   "Rigatoni with fennel sausage sauce",
   ".specials-img",
-  ".specials-order",
+  ".special-order",
   ".specials-recipe"
 );
