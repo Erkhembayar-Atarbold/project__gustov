@@ -1,4 +1,4 @@
-//Create a function that gets image from a food menu
+//Create a function that gets image from a food menu API
 
 //Get recipe from API
 
@@ -27,9 +27,9 @@ function getRecipeAPI(foodName, DOMImage, DOMGuide, DOMul) {
 
 getRecipeAPI(
   "Lasagna",
-  ".lasgana-img",
+  ".lasagana-img",
   ".lasagna-description",
-  ".lasgana-grocery"
+  ".lasagana-grocery"
 );
 
 getRecipeAPI("Pizza", ".pizza-img", ".pizza-discription", ".pizza-el");
